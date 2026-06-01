@@ -28,6 +28,6 @@ A machine learning pipeline engineered to forecast real estate valuations based 
 3. Run the Jupyter Notebook to view the EDA and model training:
    jupyter notebook notebooks/01_eda_and_cleaning.ipynb
 
-## Results & Performance
+## 🏆 Results & Performance
 * Engineered custom architectural features (TotalSF) that ranked among the top 3 most important predictive variables.
 * Successfully explained 85%+ of price variance using an ensemble Random Forest model.
